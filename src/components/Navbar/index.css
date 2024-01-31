@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.darknav-container {
+  background-color: #333333;
+  height: 20%;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.lightnav-container {
+  background-color: #f8fafc;
+  height: 20%;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.website-logo {
+  margin-left: 20px;
+  height: 50px;
+  width: 50px;
+}
+.dark-class {
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.light-class {
+  color: #171f46;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.theme {
+  height: 50px;
+  width: 50px;
+}
